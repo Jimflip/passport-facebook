@@ -22,7 +22,7 @@
   "main": "./lib/passport-facebook",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "~0.1.2"
+    "passport-oauth": "git+https://github.com/Jimflip/passport-oauth.git"
   },
   "devDependencies": {
     "vows": "0.6.x"
